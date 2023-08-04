@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Olá Bem Vindos Ao Meu GitHUb
+Olá Bem Vindos Ao Meu GitHub
 </h1>
 
 <!--
@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" src="https://img.shields.io/badge/Typescript-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=%23F7DF1E" />
-
-<img align="left" src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54" />
-
-<img src="https://img.shields.io/badge/PostgreSQL-%2335495e.svg?style=for-the-badge&logo=PostgreSQL&logoColor=%234FC08D" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Everton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Everton-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Everton-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div
 
 
 ## <br /> 🙋‍♂️ Conecte-se comigo
