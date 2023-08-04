@@ -31,21 +31,12 @@ Here are some ideas to get you started:
 </div>
 
 
-## <br /> 🙋‍♂️ Conecte-se comigo
+##
 
-
-
-<!-- Badges template - https://github.com/Ileriayo/markdown-badges#social-->
-
-<br />
-
-
-
-
-
-  <a  href="https://www.linkedin.com/in/everton-junio-dev/"><img align="left" alt="Linkedin" title="Linkedln" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
- <a  href="https://www.instagram.com/everton_junio_/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-
-
+<div> 
+  
+  <a href="https://instagram.com/everton_junio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:everton.junio132@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-junio-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
