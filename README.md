@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=EvertonJunioDEV&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonJunioDEV&layout=donut&theme=radical)](https://github.com/EvertonJunioDEV/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonjuniodev&layout=compact&theme=radical)
 
 <div style="display: inline_block">
   <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
