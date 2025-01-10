@@ -4,7 +4,7 @@ Hello, Welcome to My GitHub!
 </h1>
 
 <!--
-**EvertonJunioDEV/EvertonJunioDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Evertonks/Evertonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=EvertonDv&show_icons=true&theme=radical" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Evertonks&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonDv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evertonks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <div style="display: inline_block">
   <img align="center" alt="Everton-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -49,6 +49,6 @@ Here are some ideas to get you started:
   
   <a href="https://instagram.com/everton_junio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:everton.junio132@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/EvertonDv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/Evertonks" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
